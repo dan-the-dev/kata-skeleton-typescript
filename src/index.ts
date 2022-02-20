@@ -1,5 +1,5 @@
 class Index {
-    func() {
+    func(): boolean {
         return true;
     }
 }
