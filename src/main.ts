@@ -1,7 +1,7 @@
-class Index {
+class Main {
     func(): boolean {
         return true;
     }
 }
 
-export default Index;
+export default Main;
